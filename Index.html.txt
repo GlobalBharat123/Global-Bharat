@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bharat Global Private Limited</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #e0f7fa;
+            color: #234058;
+            margin: 0;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            padding: 2rem;
+            background: #b2ebf2;
+        }
+        .logo {
+            height: 100px;
+            margin-right: 2rem;
+        }
+        .container {
+            max-width: 900px;
+            margin: 2rem auto;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 18px #b2ebf2;
+            padding: 2rem;
+        }
+        h1, h2 {
+            color: #039be5;
+        }
+        ul {
+            margin-bottom: 2rem;
+        }
+        .highlight {
+            background: #fce4ec;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+        }
+        .contact {
+            background: #ecf3ff;
+            padding: 1rem;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="Global-Bharat-Private-Limited.png.jpg.jpg" alt="Bharat Global Private Limited Logo" class="logo">
+        <h1>Bharat Global Private Limited</h1>
+    </div>
+    <div class="container">
+        <section>
+            <h2>Company Overview</h2>
+            <p>Bharat Global Private Limited is a dynamic merchandise export company dedicated to delivering high-quality products to global markets. With a strong commitment to excellence, innovation, and customer satisfaction, the company serves as a trusted partner for international buyers seeking premium Indian goods.</p>
+        </section>
+        <section>
+            <h2>Core Business</h2>
+            <ul>
+                <li>Full sleeve aprons for hospitality, healthcare, and industrial use.</li>
+                <li>Disposable slippers for hotels, spas, and travel sectors.</li>
+                <li>Hand towels and large towels for luxury and everyday use.</li>
+                <li>Bed sheets in various fabrics and sizes for domestic and institutional purposes.</li>
+                <li>Rakhi, showcasing traditional Indian artistry for festive and cultural occasions.</li>
+                <li>Personal care products, including grooming and hygiene essentials.</li>
+                <li>Non-personal care items for household and utility needs.</li>
+                <li>Food products with authenticity, taste, and international safety standards.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Approach & Strengths</h2>
+            <ul>
+                <li>Stringent quality control processes to meet global compliance standards.</li>
+                <li>Flexible production capabilities for bulk and custom orders.</li>
+                <li>Competitive pricing without compromising quality.</li>
+                <li>Timely and reliable shipping worldwide.</li>
+            </ul>
+        </section>
+        <div class="highlight">
+            <h3>Vision</h3>
+            <p>To be the world’s most trusted export partner for Indian products—renowned for reliability, sustainability, and a seamless global trade experience.</p>
+            <h3>Mission</h3>
+            <p>To deliver world-class merchandise solutions that enhance customer value, support sustainable practices, and promote the richness of Indian-made products in the international marketplace.</p>
+        </div>
+        <div class="contact">
+            <h3>Contact Details</h3>
+            <p>E-Mail: <a href="mailto:globalbharattraders@gmail.com">globalbharattraders@gmail.com</a></p>
+            <p>Phone: 9 821 800 803</p>
+            <p>Registered Address: Flat no 4-A256-3F, Signature Global Park IV, Village Hariyahara, Tehsil - Sohna, Sec-36, Gurugram, Haryana, India, 122004</p>
+        </div>
+    </div>
+</body>
+</html>
